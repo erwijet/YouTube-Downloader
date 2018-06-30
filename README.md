@@ -21,4 +21,4 @@ bitsadmin /transfer job /download /priority high https://github.com/erwijet/YouT
 # Help
 ======
 
-~~Refer to the [help manual](manual.html) for known bugs and help
+~~Refer to the [help manual](manual.html) for known bugs and help~~
