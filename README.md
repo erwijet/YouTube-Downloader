@@ -1,2 +1,1 @@
-
-[![Github All Releases](https://img.shields.io/github/downloads/atom/atom/total.svg)](https://github.com/erwijet/YouTube-Downloader)
+[![stable release](https://img.shields.io/badge/stable%20release-1.0-green.svg)](https://github.com/erwijet/YouTube-Downloader)
